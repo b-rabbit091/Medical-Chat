@@ -1,0 +1,16 @@
+streamlit
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+celery
+vosk
+pydub
+fpdf
+PyPDF2
+faiss-cpu
+sentence-transformers
+openai
+groq
+torch
+transformers
