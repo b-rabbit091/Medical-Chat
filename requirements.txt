@@ -9,8 +9,9 @@ pydub
 fpdf
 PyPDF2
 faiss-cpu
-sentence-transformers
 openai
 groq
-torch
-transformers
+reportlab
+redis
+pydub
+sentence-transformers
