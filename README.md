@@ -12,12 +12,12 @@ This project automates retrieval, transcription, deidentification, and querying 
 5. Embeddings + FAISS
 6. Chatbot + LLM comparison + ClinicalBERT scoring
 
+### Install Dependencies
+```bash
+pip install -r requirements.txt
+```
 ### Run App
 ```bash
 streamlit run app.py
 ```
 
-### Install Dependencies
-```bash
-pip install -r requirements.txt
-```
